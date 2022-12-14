@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<censo>
+    <localidat nombre = "Sant Andreu de la Barca">
+        <habitante>
+            <nombre>Oriol</nombre>
+            <apellido>Gonzalez</apellido>
+            <telefono>634452369</telefono>
+            <sexo>Home</sexo>
+            <edat>4</edat>
+            <fecha_nacimiento>13/08/2019</fecha_nacimiento>
+            <correo>oriolg@gmail.com</correo>
+            <dni>69696969x</dni>
+            <grupo nombre = "bressol">
+                <guarderia>
+                    <nombre>Escola El Cavallet</nombre>
+                    <nombre>Escola El Palau</nombre>
+                </guarderia>
+                <escuelas>
+                    <nombre>Escola Sant Andreu</nombre>
+                    <data_inici>18/09/2022</data_inici>
+                </escuelas>
+                <padres>
+                    <nombre>Jacinto</nombre>
+                    <nombre>Montse</nombre>
+                </padres>
+            </grupo>
+        </habitante>
+    </localidat>
+
+    <localidat nombre = "Palleja">
+        <habitante>
+            <nombre>Pepe</nombre>
+            <apellido>Viyuela</apellido>
+            <telefono>635536695</telefono>
+            <sexo>Home</sexo>
+            <edat>7</edat>
+            <fecha_nacimiento>01/08/2015</fecha_nacimiento>
+            <correu>pep@gmail.com</correu>
+            <dni>69696969T</dni>
+            <grupo nombre = "primaria">
+                <escuelas>
+                    <nombre>Escola JJOrtiz</nombre>
+                    <curso>Segon</curso>
+                    <clase>2 B</clase>
+                    <asignaturas>
+                        <asignatura nombre = "Matemàtiques">
+                            <profesor>joan</profesor>
+                            <nota>9.5</nota>
+                        </asignatura>
+                        <asignatura nombre = "catala">
+                            <profesor>Pep</profesor>
+                            <nota>6</nota>
+                        </asignatura>
+                        <asignatura nombre = "Recons">
+                            <profesor>Eva</profesor>
+                            <nota>5</nota>
+                        </asignatura>
+                    </asignaturas>
+                </escuelas>
+            </grupo>
+        </habitante>
+    </localidat>
+
+    <localidat nombre = "Molins de Rei">
+        <habitante>
+            <nombre>Luis Miguel</nombre>
+            <apellido>Patacoja</apellido>
+            <telefono>354789321</telefono>
+            <sexo>Home</sexo>
+            <edat>45</edat>
+            <fecha_nacimiento>03/06/1977</fecha_nacimiento>
+            <correo>elluismi@gmail.com</correo>
+            <dni>659123654L</dni>
+            <grupo nombre = "adult">
+                <empresa>
+                    <nombre>Caparabo</nombre>
+                    <cargo>Cajero</cargo>
+                    <sueldo>1.000 €</sueldo>
+                    <sucursal>Molins</sucursal>
+                    <vacaciones>
+                        <fecha_inicio>26/06/2022</fecha_inicio>
+                        <fecha_final>14/07/2022</fecha_final>
+                    </vacaciones>
+                </empresa>
+            </grupo>
+        </habitante>
+    </localidat>
+
+    <localidat nombre = "Castellbisbal">
+        <habitante>
+            <nombre>Juanita</nombre>
+            <apellido>Roca</apellido>
+            <telefono>789123456</telefono>
+            <sexo>Dona</sexo>
+            <edat>70</edat>
+            <fecha_nacimiento>19/011/1952</fecha_nacimiento>
+            <correo>Juanita@gmail.com</correo>
+            <dni>40934368A</dni>
+            <grupo nombre = "senior">
+                <estado situacion = "Jubilado">
+                    <pension>480 €</pension>
+                </estado>
+            </grupo>
+        </habitante>
+    </localidat>
+</censo>
